@@ -15,7 +15,7 @@ init ();
       total+= adc_reading;
       i+ = 1;
 }
-printf(%d mean /n",  total/5);
+printf("%d mean /n",  total/5);
 
 return 0;
 }
